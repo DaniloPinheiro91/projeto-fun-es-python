@@ -1,0 +1,12 @@
+Viagem, organizar as coisas da viagem, media, lazer
+estudar, estudar as materias de python, alta, estudo
+criar tatuagem, criar a tatuagem do cliente joao, alta, trabalho
+criar tatuagem 2, criar a tatuagem do roberto, media, trabalho
+Viagem, organizar as coisas da viagem, baixa, lazer
+estudar, estudar as materias de python, alta, estudo
+criar tatuagem, criar a tatuagem do cliente joao, alta, trabalho
+criar tatuagem 2, criar a tatuagem do roberto, media, trabalho
+Viagem, organizar as coisas da viagem, media, lazer
+estudar, estudar as materias de python, baixa, estudo
+criar tatuagem, criar a tatuagem do cliente joao, alta, trabalho
+criar tatuagem 2, criar a tatuagem do roberto, media, trabalho
